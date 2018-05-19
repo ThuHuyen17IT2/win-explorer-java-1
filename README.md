@@ -21,12 +21,15 @@ HƯỚNG DẪN SỬ DỤNG CHỨC NĂNG CHÍNH COPY THƯ MỤC
 
 **********************************************
 CHỨC NĂNG PHỤ:
+
 -chức năng tạo file mới
 
 Click vào button newfile và nhập tên mới (lưu ý đặt tên chưa tồn tại). 
  
  click Ok or ấn Enter .
- 
+
+
+
  
  -Chức năng rename :
  Chọn File cần rename trên table . 
@@ -34,6 +37,8 @@ Click vào button newfile và nhập tên mới (lưu ý đặt tên chưa tồn
  Click vào button rename và nhập tên mới (lưu ý đặt tên chưa tồn tại). 
  
  click Ok or ấn Enter . Nếu báo Success thì rename hoàn tất .
+ 
+ 
  
  
  -chức năng xóa
