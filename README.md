@@ -5,7 +5,8 @@ Email: hthnhung.17it2@sict.udn.vn
 Mã đề: 01
 ******************************************
 HƯỚNG DẪN SỬ DỤNG CHỨC NĂNG CHÍNH COPY THƯ MỤC
--chọn thư mục cần copy
+
+- chọn thư mục cần copy
 - Click vào button copy 
 - đặt tên thư mục đích copy
 - click Ok or ấn Enter .
